@@ -122,7 +122,7 @@
 ---
 
 ### 🛡️ Komuta Mesajı
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&center=true&vCenter=true&width=850&height=100&color=FF4500&duration=3000&lines=Vatan+için+ölmek+de+var,+kod+yazmak+da.;dönmek+yok,+teslim+olmak+yok!;the-guardian-tr+sahada." />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
+</p>
