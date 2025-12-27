@@ -51,10 +51,10 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=xIXi1iY01ss" target="_blank">
-    <img src="https://img.youtube.com/vi/xIXi1iY01ss/maxresdefault.jpg" width="700" style="border-radius: 15px; border: 2px solid #556B2F;" alt="Unutulmayanlar" />
+  <a href="https://www.youtube.com/watch?v=-xTTsYCPzoM" target="_blank">
+    <img src="https://img.youtube.com/vi/2PggVPJTzCY/maxresdefault.jpg" width="700" style="border-radius: 15px; border: 2px solid #556B2F;" alt="Unutulmayanlar" />
   </a>
-  <p><i>"Unutulmayanlar" - Taktik Arşiv 01</i></p>
+  <p><i>"  Enemy "</i></p>
 </div>
 
 ---
@@ -126,3 +126,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
