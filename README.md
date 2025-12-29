@@ -1,16 +1,25 @@
+
+
+
+
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=40&duration=4000&pause=1500&color=E74C3C&center=true&vCenter=true&width=1000&lines=فَإِنَّ+مَعَ+الْعُسْرِ+يُسْرًا;With+hardship+comes+ease.;Şüphesiz+her+zorlukla+beraber+bir+kolaylık+vardır." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SURAH-AL--INSHIRAH-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=E74C3C" />
+  <img src="https://img.shields.io/badge/PROBLEM-SOLVING-E74C3C?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=2&section=footer&width=400" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=42&duration=3800&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=%D8%A5%D9%90%D9%86%D9%91%D9%8E%D8%A7+%D9%81%D9%8E%D8%AA%D9%8E%D8%AD%D9%92%D9%86%D9%8E%D8%A7+%D9%84%D9%8E%D9%83%D9%8E+%D9%81%D9%8E%D8%AA%D9%92%D8%AD%D9%8B%D8%A7+%D9%85%D9%91%D9%80%D9%81%D8%A8%D9%90%D9%8A%D9%86%D9%8B%D8%A7;Verily,+We+have+granted+you+a+clear+victory.;Şüphesiz+Biz+sana+apaçık+bir+fetih+verdik." />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SURAH-AL--FATH-1a1a1a?style=for-the-badge&logo=fortinet&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MISSION-ACCOMPLISHED-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/ENGINEERING-GOALS-FFD700?style=for-the-badge&logo=target&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=footer&width=500" />
-</p>
  <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=556B2F&center=true&vCenter=true&width=800&lines=KOMUTA+PROTOKOLÜ+BAŞLATILDI...;GÜVENLİ+BAĞLANTI+KURULUYOR...;SİSTEM+AKTİF:+VERSİYON+2.0" />
@@ -127,6 +136,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
 
 
 
