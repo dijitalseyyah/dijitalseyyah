@@ -99,10 +99,10 @@
 ---
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=9xADNPEu4eY" target="_blank">
-    <img src="https://img.youtube.com/vi/9xADNPEu4eY/maxresdefault.jpg"  style="border: 4px solid #8B0000; border-radius: 20px; box-shadow: 0px 0px 20px #FF0000;" alt="SAT Motivasyon" />
+  <a href="https://www.youtube.com/watch?v=KMNdRdpzT7Y" target="_blank">
+    <img src="https://img.youtube.com/vi/KMNdRdpzT7Y/maxresdefault.jpg"  style="border: 4px solid #8B0000; border-radius: 20px; box-shadow: 0px 0px 20px #FF0000;" alt="SAT Motivasyon" />
   </a>
-  <h2 style="color: #FF0000;">"Ayılar asla PES ETMEZ!"</h2>
+  <h2 style="color: #FF0000;">""asla kazanamazsın""</h2>
 </div>
 
 ---
@@ -126,6 +126,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
 
 
 
