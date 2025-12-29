@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/YETKİ-ÜST%20DÜZEY-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" />
   <img src="https://img.shields.io/badge/İSTİHBARAT-AKTİF-6B8E23?style=for-the-badge&logo=radar&logoColor=white" />
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dijitalseyyah&label=Profile%20views&color=556B2F&style=flat" alt="asomania" /> </p>
 
 ---
 
@@ -126,6 +127,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
 
 
 
