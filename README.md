@@ -16,9 +16,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=2&section=footer&width=400" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=42&duration=3800&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=%D8%A5%D9%90%D9%86%D9%91%D9%8E%D8%A7+%D9%81%D9%8E%D8%AA%D9%8E%D8%AD%D9%92%D9%86%D9%8E%D8%A7+%D9%84%D9%8E%D9%83%D9%8E+%D9%81%D9%8E%D8%AA%D9%92%D8%AD%D9%8B%D8%A7+%D9%85%D9%91%D9%80%D9%81%D8%A8%D9%90%D9%8A%D9%86%D9%8B%D8%A7;Verily,+We+have+granted+you+a+clear+victory.;Şüphesiz+Biz+sana+apaçık+bir+fetih+verdik." />
-</p>
 
  <div align="center">
 
@@ -136,6 +133,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
 
 
 
