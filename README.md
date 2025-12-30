@@ -58,10 +58,10 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=Ad9kpnnagjc" target="_blank">
-    <img src="https://img.youtube.com/vi/c0oIzHRDO7c/maxresdefault.jpg"  style="border-radius: 15px; border: 2px solid #556B2F;" alt="Unutulmayanlar" />
+  <a href="https://www.youtube.com/watch?v=xPx2yvOqn2k" target="_blank">
+    <img src="https://img.youtube.com/vi/xPx2yvOqn2k/maxresdefault.jpg"  style="border-radius: 15px; border: 2px solid #556B2F;" alt="Unutulmayanlar" />
   </a>
-  <p><i>"  kardan aydınlık "</i></p>
+  <p><i> o adamlar </i></p>
 </div>
 
 ---
@@ -133,6 +133,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
 
 
 
