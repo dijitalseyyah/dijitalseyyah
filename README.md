@@ -58,8 +58,8 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=6usLvzuKUD0" target="_blank">
-    <img src="https://img.youtube.com/vi/6usLvzuKUD0/maxresdefault.jpg"  style="border-radius: 15px; border: 2px solid #556B2F;" alt="Unutulmayanlar" />
+  <a href="https://www.youtube.com/watch?v=sU6aRAijeq4" target="_blank">
+    <img src="https://img.youtube.com/vi/sU6aRAijeq4/maxresdefault.jpg"  style="border-radius: 15px; border: 2px solid #556B2F;" alt="Unutulmayanlar" />
   </a>
   <p><i> </i></p>
 </div>
@@ -133,6 +133,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=900&height=100&lines=VATAN+İÇİN+CAN+VERİR,+NİZAM-I+ALEM+İÇİN+KOD+YAZARIZ.;DÖNMEK+YOK,+TESLİM+OLMAK+YOK!;THE+GUARDIAN+SİSTEME+GİRİŞ+YAPTI..." />
 </p>
+
 
 
 
